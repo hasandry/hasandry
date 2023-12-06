@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hasandry
+- 👀 I’m interested in game design, programming, and just overall dev.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on Sonic Fangames.
+- 📫 How to reach me haydenasandry@gmail.com
